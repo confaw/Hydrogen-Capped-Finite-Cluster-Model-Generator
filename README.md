@@ -1,4 +1,4 @@
-# Hydrogen-Capped-Finite-Cluster-Model-Generator
+# Hydrogen Capped Finite Cluster Model Generator
 This code utilizes the Python packages ASE, Numpy, and Scipy to turn exported XYZ structures from VESTA into hydrogen capped finite clusters.
 To use this code properly, You'll need to modify a few parameters and ensure your input files are saved in the right places as the correct formats.
 
